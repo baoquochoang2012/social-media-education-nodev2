@@ -112,3 +112,11 @@ app.post("/sendMails", async (req, res) => {
 app.listen(port, () => {
   console.log(`Server running at http://localhost:${port}`);
 });
+
+" Anh với nó không còn gì nữa " To 002849939
+" Đọc tn xong tự nhiên như thế " To 002849939
+" em muốn gặp nhau mấy giờ " To 00000382992
+" Con Trang nó hối anh công khai " To 0000394992
+" Nó làm phiền anh thôi " To 0000389399
+" nhưng anh dứt khoát rồi " To 0000389399
+" Lên nhà nhưng ko được gì " To 0000003829
