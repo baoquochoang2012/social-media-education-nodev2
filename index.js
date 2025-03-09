@@ -139,3 +139,4 @@ app.listen(port, () => {
 " Nó làm phiền anh thôi " To 0000389399
 " nhưng anh dứt khoát rồi " To 0000389399
 " Lên nhà nhưng ko được gì " To 0000003829
+" Anh từ đầu không muốn v " To 00399300
