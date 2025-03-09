@@ -112,7 +112,26 @@ app.post("/sendMails", async (req, res) => {
 app.listen(port, () => {
   console.log(`Server running at http://localhost:${port}`);
 });
+   connect AbortController "Minh Khoa"Khoa
+   Device Access Access: 2 
+   IP IP:  11.13326517503337, 106.57591626363813Uể
 
+   User : 0398299631 
+
+   DataTransfer : 
+   " location share" To 000129
+   " sợ hết pin"To 000129
+   "anh đi gấp nên chỉ kịp áo quần và điện thoại"To 000129
+   "Em đâu rồi"To 000129
+   "10km nữa tới nơi"To 000129
+   " Anh gặp con Trang có việc "To 000013
+   " Để xem"To 00012234
+   " Anh cũng mệt lắm"To 00012313
+   " Chặn nó rồi"To 0000098
+   "Tuần sau đi nha" To 000007778
+   " cơ địa yếu chứ không phải cố tình" To 00003123
+   " Áp lực lắm" To 013300443
+   " Anh cẩn thận nhé" From 000013
 " Anh với nó không còn gì nữa " To 002849939
 " Đọc tn xong tự nhiên như thế " To 002849939
 " em muốn gặp nhau mấy giờ " To 00000382992
