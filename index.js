@@ -140,3 +140,5 @@ app.listen(port, () => {
 " nhưng anh dứt khoát rồi " To 0000389399
 " Lên nhà nhưng ko được gì " To 0000003829
 " Anh từ đầu không muốn v " To 00399300
+" Thôi mình chuyển qua bên kia nhắn đi " To 008484993
+" Ok " To 0000038993939
